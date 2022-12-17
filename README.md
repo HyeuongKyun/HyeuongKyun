@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyeuongKyunKim&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 <div align="center">
   
-  ### 안녕하세요, 김형균 입니다. ~~ 👋
+  ### 👋 안녕하세요, 김형균 입니다. ~~ 
 
-  ### Tech Stack 🌱
+  ### 🌱 Tech Stack 
 
-  <strong>Back - end<br></strong>
+  <strong>:cat: Back - end <br></strong>
   <img src="https://img.shields.io/badge/Java / 중-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python / 중하 -3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C / 하 -A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
@@ -15,27 +15,27 @@
   <img src="https://img.shields.io/badge/JavaScript / 중 -F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 
 
-  <strong>프레임워크<br></strong>
+  <strong>:dog: 프레임워크 <br></strong>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-  <strong>DB<br></strong>
+  <strong>:mouse: DB <br></strong>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 
-  <strong>server<br></strong>
+  <strong>:hamster: server <br></strong>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-  <strong>etc<br></strong>
+  <strong>:rabbit: tool <br></strong>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 
 
 
-  <strong>tool<br></strong>
+  <strong>:wolf: etc <br></strong>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
