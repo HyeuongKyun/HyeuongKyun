@@ -73,7 +73,7 @@
   -------------------
   <br><br>
 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm) &nbsp; &nbsp; &nbsp; &nbsp;
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=heng2926&theme=warm) &nbsp; &nbsp; &nbsp; &nbsp;
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heng2926)](https://solved.ac/heng2926)<br><br><br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeuongKyun)](https://github.com/HyeuongKyun/github-readme-stats)
 
