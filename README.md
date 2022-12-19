@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyeuongKyun&nbsp;Kim&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff" style="width:100%">
-
+  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeuongKyun&count_bg=%23FFE1CE&title_bg=%23FFB4D9E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
   <br><br>
-  <h1> 👋 안녕하세요, 김형균 입니다. ~~ </h1> 
+  # 👋 안녕하세요, 김형균 입니다. ~~ <br> 
   <br><br>
   
   ### :sparkles: Education
@@ -69,9 +70,11 @@
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermostg&logoColor=white">
 
+  -------------------
   <br><br>
-  <img src="http://mazandi.herokuapp.com/api?handle={HyeuongKyun}&theme=warm"/> &nbsp;
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heng2926)](https://solved.ac/heng2926)
+
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm) &nbsp; &nbsp; &nbsp; &nbsp;
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heng2926)](https://solved.ac/heng2926)<br><br><br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeuongKyun)](https://github.com/HyeuongKyun/github-readme-stats)
 
 </div>
