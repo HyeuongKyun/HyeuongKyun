@@ -3,6 +3,16 @@
   
   ### 👋 안녕하세요, 김형균 입니다. ~~ 
 
+
+  ### :sparkles: Education
+<img src="https://user-images.githubusercontent.com/97081506/208330969-8d8ccd6d-f98b-49b8-b0ee-3f4fa66a305d.png" width="30" height="30">    <strong>동국대학교 서울캠퍼스 - 수학과 2016.03.02 ~ 2022.08.25</strong> <br>
+<img src="https://user-images.githubusercontent.com/97081506/208330971-f9335816-e1e6-4361-bf27-55cee19a1b8a.png" width="30" height="30">    <strong>Kosta 한국 소프트 웨어 기술 진흥 협회 2022.03.10 ~ 2022.07.26(조기 수료)</strong><br>
+<img src="https://user-images.githubusercontent.com/97081506/208330972-4f5f6308-10f2-4218-9aab-10e9857b8544.png" width="30" height="30">    <strong>SSAFY(Samsung Software Academy For Youth / 비전공 자바반) 2022.07.06 ~ 진행 중 </strong><br>
+
+
+-------------------
+
+
   ### 🌱 Tech Stack 
 
   <strong>:cat: Back - end <br></strong>
@@ -46,6 +56,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermostg&logoColor=white">
+
+
+  <img src="http://mazandi.herokuapp.com/api?handle=HyeuongKyun&theme=warm"/>
+
+
 </div>
 
 
