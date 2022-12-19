@@ -83,6 +83,14 @@
   <strong>🐎 Github <br><br></strong>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeuongKyun)](https://github.com/HyeuongKyun/github-readme-stats)
 
+  
+  -------------------
+  <br><br>  
+  
+  <strong>🐂 Me <br><br></strong>
+  💬&nbsp;&nbsp; <a href="mailto:hyh14789@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyh14789@gmail.com"></a> &nbsp; <a href="https://blog.naver.com/heng2926"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/heng2926"/></a>&nbsp;&nbsp; 💬
+  
+  
 </div>
 
 
