@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyeuongKyun&nbsp;Kim&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff" style="width:100%">
-  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeuongKyun&count_bg=%23FFE1CE&title_bg=%23FFB4D9E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-  
+
   <br><br>
   # 👋 안녕하세요, 김형균 입니다. <br> 
   <br><br>
@@ -24,17 +22,22 @@
   
   이력<br>
   🐣SSAFY 8기🐣<br>
-  1. <br>
-  2. <br>
-  3. <br>
+  <ol>
+    <br>⭐<a href="https://github.com/HyeuongKyun/MMC" style="color:blue; font-size:14px;"> 온라인 코딩 강의 서비스( Infra && Spring Boot(JWT) )</a>
+    <br>🌟<a href="https://github.com/HyeuongKyun/NFasT" style="color:blue; font-size:14px;"> NFT를 활용한 맛집 우선 입장권 서비스( 블록체인 ) </a>
+    <br>⭐<a href="https://github.com/HyeuongKyun/ssavival" style="color:blue; font-size:14px;"> SSAFY의 일상을 게임으로 ( Infra && Spring Boot && 오픈 소스 활용 ) </a>
+  </ol>
+  <br><br>
+  
   🐤INZISOFT🐤<br>
-  1️⃣ [하나증권 폐쇠망 레드마인 설치 및 전문 개발](https://www.notion.so/inzihistory/f8ade7c492344e8397a8a9993b47eb5e?pvs=4)<br>
-  2️⃣ [Python 명세 작업 및 반복 작업 자동화 소스](https://github.com/HyeuongKyun/automationPython)<br>
-  <br>
-  진행 중
-  <br>
-  0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣
-  <br><br><br>
+  <ol>
+    <br>🌟 <a href="https://inzihistory.notion.site/1f5f309a8ec64f6d9d8f437710e87f8f?pvs=4" style="color:purple; font-size:14px;"> REDMINE 백업 자동화 및 메리츠 서버 크론탭을 활용한 삭제 배치 </a>
+    <br>⭐ <a href="https://www.notion.so/inzihistory/f8ade7c492344e8397a8a9993b47eb5e?pvs=4" style="color:blue; font-size:14px;"> 하나증권 폐쇠망 레드마인 설치 및 전문 개발</a>
+    <br>🌟 <a href="https://github.com/HyeuongKyun/automationPython" style="color:blue; font-size:14px;"> Python 명세 작업 및 반복 작업 자동화 소스</a>
+    <br>⭐ <a href="https://inzihistory.notion.site/19ac911874a94afc9b4db4d34d360c8d?pvs=4" style="color:purple; font-size:14px;"> 메리츠 서버 작업 시 문제 해결 기록</a>
+  </ol>
+  
+
   -------------------
   
 <br><br>
@@ -98,22 +101,8 @@
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=heng2926&theme=warm) &nbsp; &nbsp; &nbsp; &nbsp;
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heng2926)](https://solved.ac/heng2926)<br><br><br>
   
-  -------------------
-  <br><br>
 
-  <strong>🐎 Github <br><br></strong>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeuongKyun)](https://github.com/HyeuongKyun/github-readme-stats)
-  
-  -------------------
-  <br><br>  
-  
-  <strong>🐂 Me <br><br></strong>
-  💬&nbsp;&nbsp; <a href="mailto:hyh14789@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyh14789@gmail.com"></a> &nbsp; <a href="https://blog.naver.com/heng2926"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/heng2926"/></a>&nbsp;&nbsp; 💬
-  
-  
-</div>
-
-  <br><br>  <br><br>  <br><br>
+ <br><br>
 
 <!--
 **HyeuongKyun/HyeuongKyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
