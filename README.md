@@ -60,7 +60,7 @@
     
   <strong>:dog: 프레임워크 <br><br></strong>
   <img src="https://img.shields.io/badge/Spring / 중 -6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js / 중 -4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js / 하 -4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React / 하 -61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Flask / 하 -000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap / 하 -7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -73,6 +73,16 @@
 
   <strong>:hamster: server <br><br></strong>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+  <img src="https://img.shields.io/badge/envoyproxy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  
+  <strong>:pig: OS <br><br></strong>
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+  <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white">
   <br><br>
 
   <strong>:rabbit: tool <br><br></strong>
