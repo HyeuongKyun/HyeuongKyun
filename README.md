@@ -44,7 +44,7 @@
 
   ### 🌱 Tech Stack <br>
 
-  <strong>:cat: Back - end <br><br></strong>
+  <strong>:cat: Basic <br><br></strong>
   <img src="https://img.shields.io/badge/Java / 중-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python / 중하 -3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C / 하 -A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
