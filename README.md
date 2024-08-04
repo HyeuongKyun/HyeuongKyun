@@ -19,8 +19,9 @@
 <br><br>
      
   -------------------
+  <br>
   
-  이력<br>
+  ### 이력<br><br><br>
   🐣SSAFY 8기🐣<br>
   <ol>
     <br>⭐<a href="https://github.com/HyeuongKyun/MMC" style="color:blue; font-size:14px;"> 온라인 코딩 강의 서비스( Infra && Spring Boot(JWT) )</a>
