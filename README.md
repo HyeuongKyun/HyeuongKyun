@@ -36,10 +36,18 @@
     <br>🌟 <a href="https://github.com/HyeuongKyun/automationPython" style="color:blue; font-size:14px;"> Python 명세 작업 및 반복 작업 자동화 소스</a>
     <br>⭐ <a href="https://inzihistory.notion.site/19ac911874a94afc9b4db4d34d360c8d?pvs=4" style="color:purple; font-size:14px;"> 서버 작업 시 문제 해결 기록</a>
   </ol>
-  
+  <br><br>
+  🐔개인학습🐔<br>
+  <ol>
+    <br>🌟 <a href="https://github.com/HyeuongKyun/automationPython" style="color:blue; font-size:14px;">자료구조    </a>
+    <br>⭐ <a href="https://inzihistory.notion.site/69a0fce4c76a496498e2e67826547e76?pvs=4" style="color:blue; font-size:14px;">알고리즘    </a>
+    <br>🌟 <a href="https://inzihistory.notion.site/CS-6e4b1ef3059f4e70bd2100147464d3a7?pvs=4?pvs=4" style="color:purple; font-size:14px;">CS 학습    </a>
+  </ol>
+  <br><br>
 
-  -------------------
-  
+
+-------------------
+    
 <br><br>
 
   ### 🌱 Tech Stack <br>
