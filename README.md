@@ -7,7 +7,9 @@
   
   ### :sparkles: Education
   
-  <img src="https://user-images.githubusercontent.com/97081506/208330969-8d8ccd6d-f98b-49b8-b0ee-3f4fa66a305d.png" width="30" height="30">    <strong>동국대학교 서울캠퍼스 - 수학과 2016.03.02 ~ 2022.08.25</strong> 
+  <br>
+  
+<!--  <img src="https://user-images.githubusercontent.com/97081506/208330969-8d8ccd6d-f98b-49b8-b0ee-3f4fa66a305d.png" width="30" height="30">    <strong>동국대학교 서울캠퍼스 - 수학과 2016.03.02 ~ 2022.08.25</strong> 
 <br><br>
 
   <img src="https://user-images.githubusercontent.com/97081506/208330971-f9335816-e1e6-4361-bf27-55cee19a1b8a.png" width="30" height="30">    <strong>Kosta 한국 소프트 웨어 기술 진흥 협회 2022.03.10 ~ 2022.07.26 (조기 수료)</strong> 
@@ -16,28 +18,48 @@
   <img src="https://user-images.githubusercontent.com/97081506/208330972-4f5f6308-10f2-4218-9aab-10e9857b8544.png" width="30" height="30">    <strong>SSAFY(Samsung Software Academy For Youth / 비전공 자바반) 2022.07.06 ~ 2023.06.30 </strong>  
 
   <img src="https://github.com/user-attachments/assets/bb32d366-3fa8-4904-a512-cb2754ef5952" width="30" height="30">    <strong>INZISOFT 2023.07.03 ~ 진행 중 </strong>  
+<br><br> -->
+  💼  <strong> OOOOO 회사 2023.07.03 ~ 진행 중 </strong>  
+<br>
+
+  📚  <strong> Java 기반 알고리즘 및 자료구조 SW 교육 2022.07.06 ~ 2023.06.30 </strong>  
+<br>
+
+  📖  <strong> C, C++ 및 Nodejs 기반의 풀스택 개발자 양성 교육 2022.03.10 ~ 2022.07.26 (조기 수료)</strong> 
 <br><br>
-     
+
+  🖋   <strong> O O 대학교 - O O 과 2016.03.02 ~ 2022.08.25</strong> 
+<br><br>
+
+
+
+
+
+
+
+
   -------------------
   <br>
-  
+      
   ### 이력<br><br><br>
-  🐣SSAFY 8기🐣<br>
+  
+  🐤회사 근무 기간🐤<br>
+  <ol>
+    <br>🌟 <a href="https://inzihistory.notion.site/1f5f309a8ec64f6d9d8f437710e87f8f?pvs=4" style="color:purple; font-size:14px;"> REDMINE 백업 자동화 및 OOO 증권 서버 크론탭을 활용한 삭제 배치 </a>
+    <br>⭐ <a href="https://www.notion.so/inzihistory/f8ade7c492344e8397a8a9993b47eb5e?pvs=4" style="color:blue; font-size:14px;"> OO 증권 폐쇠망 레드마인 설치 및 전문 개발</a>
+    <br>🌟 <a href="https://github.com/HyeuongKyun/automationPython" style="color:blue; font-size:14px;"> Python 명세 작업 및 반복 작업 자동화 소스</a>
+    <br>⭐ <a href="https://inzihistory.notion.site/19ac911874a94afc9b4db4d34d360c8d?pvs=4" style="color:purple; font-size:14px;"> 서버 작업 시 문제 해결 기록</a>
+  </ol>
+  <br><br>
+
+  🐣Java 기반 SW 교육 기간🐣<br>
   <ol>
     <br>⭐<a href="https://github.com/HyeuongKyun/MMC" style="color:blue; font-size:14px;"> 온라인 코딩 강의 서비스( Infra && Spring Boot(JWT) )</a>
     <br>🌟<a href="https://github.com/HyeuongKyun/NFasT" style="color:blue; font-size:14px;"> NFT를 활용한 맛집 우선 입장권 서비스( 블록체인 ) </a>
     <br>⭐<a href="https://github.com/HyeuongKyun/ssavival" style="color:blue; font-size:14px;"> SSAFY의 일상을 게임으로 ( Infra && Spring Boot && 오픈 소스 활용 ) </a>
   </ol>
   <br><br>
-  
-  🐤INZISOFT🐤<br>
-  <ol>
-    <br>🌟 <a href="https://inzihistory.notion.site/1f5f309a8ec64f6d9d8f437710e87f8f?pvs=4" style="color:purple; font-size:14px;"> REDMINE 백업 자동화 및 메리츠 서버 크론탭을 활용한 삭제 배치 </a>
-    <br>⭐ <a href="https://www.notion.so/inzihistory/f8ade7c492344e8397a8a9993b47eb5e?pvs=4" style="color:blue; font-size:14px;"> 하나증권 폐쇠망 레드마인 설치 및 전문 개발</a>
-    <br>🌟 <a href="https://github.com/HyeuongKyun/automationPython" style="color:blue; font-size:14px;"> Python 명세 작업 및 반복 작업 자동화 소스</a>
-    <br>⭐ <a href="https://inzihistory.notion.site/19ac911874a94afc9b4db4d34d360c8d?pvs=4" style="color:purple; font-size:14px;"> 서버 작업 시 문제 해결 기록</a>
-  </ol>
-  <br><br>
+
   🐔개인학습🐔<br>
   <ol>
     <br>🌟 <a href="https://www.notion.so/inzihistory/14c3a33ba1754da687249be6c15a8659" style="color:blue; font-size:14px;">자료구조    </a>
